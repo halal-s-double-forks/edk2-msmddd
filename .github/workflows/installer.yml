@@ -23,7 +23,7 @@ jobs:
       matrix:
         device:
           # sm8150
-          - mh2lm
+          - hotdog
           - nabu
           - cepheus
           - vayu-huaxing
